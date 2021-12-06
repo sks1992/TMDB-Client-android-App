@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TMDB Clent Android</string>
+    <string name="update">Update</string>
 </resources>

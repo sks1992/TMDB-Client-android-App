@@ -3,11 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/android_project/TMDBClentAndroid/app/src/main/res/drawable/ic_update.xml" value="0.24444444444444444" />
         <entry key="..\:/android_project/TMDBClentAndroid/app/src/main/res/layout/activity_artists.xml" value="0.2791666666666667" />
         <entry key="..\:/android_project/TMDBClentAndroid/app/src/main/res/layout/activity_home.xml" value="0.1" />
         <entry key="..\:/android_project/TMDBClentAndroid/app/src/main/res/layout/activity_movie.xml" value="0.29739583333333336" />
         <entry key="..\:/android_project/TMDBClentAndroid/app/src/main/res/layout/activity_tv_shows.xml" value="0.29739583333333336" />
         <entry key="..\:/android_project/TMDBClentAndroid/app/src/main/res/layout/list_item.xml" value="0.29739583333333336" />
+        <entry key="..\:/android_project/TMDBClentAndroid/app/src/main/res/menu/update_menu.xml" value="0.29739583333333336" />
       </map>
     </option>
   </component>
